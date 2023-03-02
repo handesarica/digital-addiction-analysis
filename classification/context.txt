@@ -1,1 +1,9 @@
-This folder will contain machine learning algorithm models of classification
+This folder is contained machine learning algorithm models of classification
+
+The avarage accuracy score of six machine learning algorithm on classification:
+1. SVM Algorithm: 0.87
+2. KNN Algorithm: 0.86
+3. Naive Bayes Algorithm: 0.78
+4. Logistic Regression Algorithm: 0.80
+5. Decision Tree Algorithm: 0.89
+6. Random Forest Algorithm: 0.96
